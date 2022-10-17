@@ -3,7 +3,7 @@
 
 char square[10] = { 'o', '1', '2', '3', '4', '5', '6', '7', '8', '9' }; //Creating an array of size 10
 
-int checkwin();
+int checkwin(); //Function for checking which player has won
 void board();
 
 int main()
